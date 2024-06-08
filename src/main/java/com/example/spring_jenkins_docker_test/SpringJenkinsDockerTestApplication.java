@@ -8,6 +8,7 @@ public class SpringJenkinsDockerTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringJenkinsDockerTestApplication.class, args);
+		System.out.println("hello world");
 	}
 
 }
